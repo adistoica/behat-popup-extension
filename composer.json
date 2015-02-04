@@ -1,5 +1,5 @@
 {
-    "name":         "irs/behat-popup-extension",
+    "name":         "adistoica/behat-popup-extension",
     "description":  "Behat context for popup manipulations with Selenium 2.",
     "keywords":     ["Behat", "popup", "alert", "confirm"],
     "type":         "library",
